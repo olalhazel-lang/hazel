@@ -1,0 +1,33 @@
+h1{
+    color: blue;
+    background-color: brown;
+    align-content: center;
+    border: c10ap;
+    border-inline-start: 0cap
+
+}
+
+.Education {
+color: aqua;
+background-color: rgb(185, 26, 26);
+border-inline-color: inherit;
+
+}
+
+#section-2-p-2{
+    color: green;
+    background-color: rgb(240, 155, 19);
+    margin: 10px;
+    border: 2px solid rgb(19, 240, 19);
+    font-weight: bold;
+    height: 300px;
+    max-width: 300px;
+}
+#section-2-p-1{
+    color:aquamarine;
+    background-color:rgb(96, 19, 240);
+}
+#section-1-p-2{
+    color: rgb(166, 240, 19);
+    background-color: rgb(240, 19, 199);
+}
